@@ -33,7 +33,7 @@
 
 1. **Клонування репозиторію:**
 ```bash
-git clone https://github.com/ваш-репозиторій.git
+git clone https://github.com/DeN4lo/2-robota-opp
 Компіляція програми:
 
 bash
